@@ -74,3 +74,10 @@ header p
     height: 400px;
 
 }
+
+.pengertian {
+    padding: 2px;
+    margin: 10px;
+    font-size: 10px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
